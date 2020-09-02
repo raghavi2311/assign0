@@ -1,0 +1,2 @@
+module assign_0 {
+}
